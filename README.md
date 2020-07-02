@@ -6,4 +6,4 @@ Send public IPV6 Address using MQTT . Access localy hosted apps without DDNS.
 
 # This method is not Secure . 
 
-For those who are in a hurry.
+Only for those who are in a hurry.
